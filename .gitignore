@@ -1,0 +1,13 @@
+# Variáveis de ambiente
+.environment
+
+# Ambientes virtuais
+env/
+
+# Arquivos de cache do Python e Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
