@@ -1,5 +1,16 @@
 # Text2Clima - Acesso a Dados Climáticos via ChatBot
 
+![Python](https://img.shields.io/badge/Python-3.15-blue?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data_Warehouse-informational?logo=postgresql)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Orchestration-green)
+![Gemini](https://img.shields.io/badge/Google_Gemini-3.5_Flash_Lite-orange?logo=google)
+
+
+# Funcionamento
+
+![til](images/text2clima.gif)
+
 O objetivo é facilitar o acesso aos dados climáticos históricos do conjunto BR-DWGD (Brazilian Daily Weather Gridded Data), com foco inicial nas regiões produtoras de cafés especiais do Brasil. Posteriormente, outras bases rotineiramente utilizadas em pesquisas climáticas serão integradas ao projeto. 
 
 No repositório, encontra-se a construção de uma interface que será acoplada um modelo de linguagem (LLM) para permitir consultas ao banco de dados utilizando linguagem natural.
